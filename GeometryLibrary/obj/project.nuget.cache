@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "Sh3Sr8/Np8/UtL2ec2YdoV5ea8MhLTwM/CbM+jYeaX3WpUzbpXqPccBkVfn6tpL5R9WpUKbtwNIrnOXAr27k2g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Auna\\source\\repos\\GeometryLibrary\\GeometryLibrary\\GeometryLibrary.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Auna\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Auna\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512",
+    "C:\\Users\\Auna\\.nuget\\packages\\nunit\\3.13.3\\nunit.3.13.3.nupkg.sha512"
+  ],
+  "logs": []
+}

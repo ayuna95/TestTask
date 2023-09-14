@@ -1,0 +1,12 @@
+C:\Users\Auna\source\repos\GeometryLibrary\GeometryLibrary\bin\Debug\net5.0\GeometryLibrary.deps.json
+C:\Users\Auna\source\repos\GeometryLibrary\GeometryLibrary\bin\Debug\net5.0\GeometryLibrary.dll
+C:\Users\Auna\source\repos\GeometryLibrary\GeometryLibrary\bin\Debug\net5.0\ref\GeometryLibrary.dll
+C:\Users\Auna\source\repos\GeometryLibrary\GeometryLibrary\bin\Debug\net5.0\GeometryLibrary.pdb
+C:\Users\Auna\source\repos\GeometryLibrary\GeometryLibrary\obj\Debug\net5.0\GeometryLibrary.csproj.AssemblyReference.cache
+C:\Users\Auna\source\repos\GeometryLibrary\GeometryLibrary\obj\Debug\net5.0\GeometryLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Auna\source\repos\GeometryLibrary\GeometryLibrary\obj\Debug\net5.0\GeometryLibrary.AssemblyInfoInputs.cache
+C:\Users\Auna\source\repos\GeometryLibrary\GeometryLibrary\obj\Debug\net5.0\GeometryLibrary.AssemblyInfo.cs
+C:\Users\Auna\source\repos\GeometryLibrary\GeometryLibrary\obj\Debug\net5.0\GeometryLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Auna\source\repos\GeometryLibrary\GeometryLibrary\obj\Debug\net5.0\GeometryLibrary.dll
+C:\Users\Auna\source\repos\GeometryLibrary\GeometryLibrary\obj\Debug\net5.0\ref\GeometryLibrary.dll
+C:\Users\Auna\source\repos\GeometryLibrary\GeometryLibrary\obj\Debug\net5.0\GeometryLibrary.pdb
